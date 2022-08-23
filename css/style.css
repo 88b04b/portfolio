@@ -738,6 +738,10 @@ a.active {
         background-image: url(../img/main_s.png);
         background-size: 100%;
     }
+    #home,
+    .disply-table {
+        height: 650px;
+    }
 }
 
 @media (max-width: 500px) {
