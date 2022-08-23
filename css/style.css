@@ -735,6 +735,10 @@ a.active {
         width: 90%;
         left: 2em;
     }
+    #home{
+        background-image: url(../img/main_s.png);
+        background-size: 100%;
+    }
 }
 
 @media (max-width: 500px) {
